@@ -1,6 +1,8 @@
 # AyED
 Alumno: Ángel Zaracho
+
 Comisión: K1202
+
 
 Resultado ejecución "g++ --version en consola":
 
