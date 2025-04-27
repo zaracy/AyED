@@ -4,7 +4,7 @@ Alumno: Ángel Zaracho
 Comisión: K1202
 
 
-Resultado ejecución "g++ --version en consola":
+Resultado ejecución "g++ --version" en consola:
 
 PS C:\Users\Usuario> g++ --version
 g++.exe (Rev2, Built by MSYS2 project) 14.2.0
